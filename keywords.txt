@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Register
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PINMODE	KEYWORD1
+PINS	KEYWORD1
+Register	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPins	KEYWORD2
+setAllOutputs	KEYWORD2
+setOneOutput	KEYWORD2
+setTriState	KEYWORD2
+resetRegister	KEYWORD2
+getValue	KEYWORD2
+addrState	KEYWORD2
+getPin	KEYWORD2
+getPinsMode	KEYWORD2
+getTriState	KEYWORD2
